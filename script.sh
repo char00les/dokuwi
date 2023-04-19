@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 echo "Installing Packages"
 sudo apt-get install apache2 libapache2-mod-php php-xml --yes
 
