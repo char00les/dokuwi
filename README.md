@@ -1,0 +1,2 @@
+# dokuwi
+installing wiki 
